@@ -1,5 +1,6 @@
 Rencana Konten
 ~content instagram
+ +linux
  +git 
 ~youtube
 ~facebook Page
